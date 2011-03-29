@@ -29,7 +29,7 @@ namespace Mono.CSharp {
 		Destructor	= 1 << 7,
 
 		Class		= 1 << 11,
-		Struct		= 1 << 12,
+		Struct		= 1 << 12, 
 		Delegate	= 1 << 13,
 		Enum		= 1 << 14,
 		Interface	= 1 << 15,
