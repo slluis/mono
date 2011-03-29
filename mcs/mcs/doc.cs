@@ -30,7 +30,7 @@ namespace Mono.CSharp
 		//
 		readonly XmlDocument XmlDocumentation;
 
-		readonly ModuleContainer module;
+		readonly ModuleContainer module; 
 
 		//
 		// The output for XML documentation.

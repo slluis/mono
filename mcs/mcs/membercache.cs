@@ -37,7 +37,7 @@ namespace Mono.CSharp {
 
 		ArrayType = 1 << 19,
 		PointerType = 1 << 20,
-		InternalCompilerType = 1 << 21,
+		InternalCompilerType = 1 << 21, 
 		MissingType = 1 << 22,
 		Void = 1 << 23,
 

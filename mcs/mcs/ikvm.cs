@@ -27,7 +27,7 @@ namespace Mono.CSharp
 			throw new NotSupportedException ();
 		}
 
-		public void ImportAssembly (Assembly assembly, RootNamespace targetNamespace)
+		public void ImportAssembly (Assembly assembly, RootNamespace targetNamespace) 
 		{
 			throw new NotSupportedException ();
 		}
