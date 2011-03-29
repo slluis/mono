@@ -26,7 +26,7 @@ namespace Mono.CSharp {
 	public class EnumMember : Const
 	{
 		class EnumTypeExpr : TypeExpr
-		{
+		{ 
 			protected override TypeExpr DoResolveAsTypeStep (IMemberContext ec)
 			{
 				type = ec.CurrentType;
