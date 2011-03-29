@@ -26,7 +26,7 @@ namespace Mono.CSharp
 {
 	/// <summary>
 	///   An Emit Context is created for each body of code (from methods,
-	///   properties bodies, indexer bodies or constructor bodies)
+	///   properties bodies, indexer bodies or constructor bodies) test
 	/// </summary>
 	public class EmitContext : BuilderContext
 	{
