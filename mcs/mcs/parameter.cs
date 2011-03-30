@@ -43,7 +43,7 @@ namespace Mono.CSharp {
 				return;
 			}
 #endif
-			if (a.HasSecurityAttribute) {
+			if (a.HasSecurityAttribute) { 
 				a.Error_InvalidSecurityParent ();
 				return;
 			}

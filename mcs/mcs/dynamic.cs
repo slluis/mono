@@ -29,7 +29,7 @@ namespace Mono.CSharp
 		CheckedContext = 1,
 		InvokeSimpleName = 1 << 1,
 		InvokeSpecialName = 1 << 2,
-		BinaryOperationLogical = 1 << 3,
+		BinaryOperationLogical = 1 << 3, 
 		ConvertExplicit = 1 << 4,
 		ConvertArrayIndex = 1 << 5,
 		ResultIndexed = 1 << 6,

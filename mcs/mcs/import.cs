@@ -41,7 +41,7 @@ namespace Mono.CSharp
 			// There is no common type for CustomAttributeData and we cannot
 			// use ICustomAttributeProvider
 			object provider;
-
+			 
 			//
 			// A member provider which can be used to get CustomAttributeData
 			//
