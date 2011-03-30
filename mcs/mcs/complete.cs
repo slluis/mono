@@ -33,7 +33,7 @@ namespace Mono.CSharp {
 				if (prefix != null && !name.StartsWith (prefix))
 					continue;
 
-				if (results.Contains (name)) // test
+				if (results.Contains (name)) // test wedwed
 					continue;
 
 				if (prefix != null)
